@@ -7,10 +7,10 @@ import Beardcrumb from './Breadcrumb'
 interface CardProps { }
 
 const Card: React.FC<CardProps> = () => {
-    const introduction = 'Hi there! I am Yang 👋. \n'
-        + 'Welcome to my personal blog where I share articles and life insights.\n'
-        + 'I am a full-stack engineer who is passionate about coding and loves life.\n'
-        + 'In my free time, I like doing sports, playing the guitar and researching stocks.😊'
+    const introduction = 'Hi there! I am Yang 👋. 😎\n' + 
+                         'Welcome to my personal blog where I share articles and life insights.✨\n' + 
+                         'I am a full-stack engineer who is passionate about coding and loves life.🥰\n' + 
+                         'In my free time, I like running 🏃‍, playing the guitar 🎸, researching stocks 📈 and learning languages.📚🌍😊';
 
     const yourImageUrl: string = 'https://lf-flow-web-cdn.doubao.com/obj/flow-doubao/doubao/web/static/image/logo-icon-white-bg.f3acc228.png';
 

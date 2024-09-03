@@ -625,6 +625,10 @@ video {
   /* 将这里替换为你的实际背景图片路径 */
 }
 
+.atricleContent{
+  border: 1px solid #ddd;
+}
+
 .card {
   /* border: 1px solid #ddd;
   background-color: #fff;
